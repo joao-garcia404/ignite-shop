@@ -46,9 +46,6 @@ $ git clone https://github.com/joao-garcia404/ignite-shop && cd ignite-shop
 # Install the dependencies
 $ yarn
 
-# Start JSON Server
-$ yarn dev:server
-
 # Start the client
 $ yarn dev
 ```
